@@ -1,7 +1,7 @@
 [[📖**Getting started]**](#getting-started)
 [[❓**FAQs & Troubleshooting]**](#faqs--troubleshooting)
 
-# Lima: Linux virtual machines (on macOS, in most cases)
+# Lima: Linux virtual machines (on macOS, in most cases).    
 
 Lima launches Linux virtual machines with automatic file sharing, port forwarding, and [containerd](https://containerd.io).
 
